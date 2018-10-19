@@ -1,6 +1,3 @@
-// Rename to "_l8z3TTlQQo.md" after completion
-
-
 Intro to Redux with React 16  
 ======
 

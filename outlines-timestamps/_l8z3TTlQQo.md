@@ -8,7 +8,6 @@ View the video [here](https://www.youtube.com/watch?v=_l8z3TTlQQo)
 * [Github repository for the video](https://github.com/CodingGarden/intro-redux)  
 * [Redux Website](https://redux.js.org)  
 * [Yarn's Documentation](https://yarnpkg.com/en/docs)  
-* [Yarn's Github](https://github.com/yarnpkg/yarn)  
 
 ## Suggested Videos  
   * Prerequisites - The Following Coding Garden Videos:  
@@ -20,11 +19,7 @@ View the video [here](https://www.youtube.com/watch?v=_l8z3TTlQQo)
 
 * [1:23] Show start / Introduction  
 * [1:55] Overview of Project  
-* [2:38] Prerequisites  (Have an idea of what state is and be familiar with React)  
-    * [What Is Application State](https://www.youtube.com/watch?v=7ilYJAG-_Ug)  
-    * [State Management and Component Hierarchy -Vue.js-](https://www.youtube.com/watch?v=lRE03MBZnuY)  
-    * [Intro To React](https://www.youtube.com/watch?v=vIA130MePY8) 
-    
+* [2:38] Prerequisites -Videos listed above- (Have an idea of what state is and be familiar with React)  
 * [3:56] What Is Redux and Where To Find More Info About Redux  
 * [4:30] What is application state?  
 * [6:36] Back To Redux  
@@ -40,7 +35,7 @@ View the video [here](https://www.youtube.com/watch?v=_l8z3TTlQQo)
   * connect  
     * mapStateToProps  
     * mapDispatchToProps  
-* [10:56] Another Redux Diagram/Flow (animated)  
+* [11:56] Another Redux Diagram/Flow (animated)  
 
 * [12:29] Convert a Simple Todo React app to Redux  
   * [12:42] Create A Copy Of no-redux Named with-redux for comparisons afterwards 

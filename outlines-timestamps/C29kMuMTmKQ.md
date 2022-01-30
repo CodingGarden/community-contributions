@@ -9,6 +9,9 @@ View the video [here](https://www.youtube.com/watch?v=C29kMuMTmKQ)
 ## Outline
 
 * [00:00] Introduction
+* [01:36] What Is Supabase?
+  * [02:51] What Is A Database?
+  * [06:26] What Is A Server?
 * [08:20] Overview of Project
   * [08:34] What Data Will Be Stored?
   * [11:00] Supabase

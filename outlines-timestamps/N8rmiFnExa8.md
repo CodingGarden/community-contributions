@@ -9,7 +9,7 @@ View the video [here](https://www.youtube.com/watch?v=N8rmiFnExa8)
 
 ## Outline
 
-* [0:01] Introduction
+* [00:00] Introduction
 * [17:25] How to multiply 2 numbers (example: 5 multiply 2 -> 10)
 * [43:33] Is N divisble by X and Y (example: 10 divisible by 2 and 5 -> TRUE)
 * [1:01:42] SPECIAL - 4200 FOLLOWERS ON TWITCH

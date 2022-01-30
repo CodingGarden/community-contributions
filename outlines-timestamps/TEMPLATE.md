@@ -9,6 +9,7 @@ View the video [here](https://www.youtube.com/watch?v=video-id-here)
 
 ## Outline
 
+* [00:00] Stream Start
 * [2:30] Introduction
 * [5:00] Overview of Project
 * [10:00] Coding Begins

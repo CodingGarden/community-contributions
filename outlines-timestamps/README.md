@@ -28,3 +28,4 @@ An example of a very detailed outline with timestamps of the first official codi
 * [Build a Web Scraper with Node.js - IMDB Movie Search](U0btOGPwrIY.md)
 * [Intro to TypeScript and Angular 5](kChBiDhdSVA.md)
 * [Intro to Redux with React 16](_l8z3TTlQQo.md)
+* [\[ARCHIVE\] Building a Simple Real-Time Chat App with Supabase](C29kMuMTmKQ.md)

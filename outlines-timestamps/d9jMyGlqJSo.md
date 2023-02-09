@@ -30,4 +30,4 @@ View the video [here](https://www.youtube.com/watch?v=d9jMyGlqJSo)
   - [15:31] Toy Story Midway Mania ride at Disney California Adventure
 - [16:04] Outro
 
-Contributed by: @your-github-name-here
+Contributed by: @SalahuddinAhammed
